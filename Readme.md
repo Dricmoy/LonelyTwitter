@@ -7,7 +7,7 @@
 
 This project demonstrates the implementation of object-oriented programming (OOP) concepts, including encapsulation, inheritance, and abstract classes, in a Java application. The application features a basic structure for handling tweets and moods.
 
-![LonelyTwitter Screenshot](image.png)
+<img src="image.png" width="300" height="200" alt="LonelyTwitter Screenshot">
 
 ## Project Structure
 
@@ -46,6 +46,3 @@ Extends `Mood` and provides specific behavior for representing happiness.
 ## Image Sizing
 
 If you need to ensure that the image is not too large, use HTML within Markdown:
-
-```html
-<img src="image.png" width="300" alt="LonelyTwitter Screenshot">
